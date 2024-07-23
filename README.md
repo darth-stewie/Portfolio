@@ -3,7 +3,7 @@ A running portfolio of projects I've either worked on or authored
 
 ---
 
-# Ambitious QA Engineer
+## Ambitious QA Engineer
 
 "Let's build something great together!"
 
