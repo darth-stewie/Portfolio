@@ -1,9 +1,9 @@
 # Portfolio
 A running portfolio of projects I've either worked on or authored
 
----
+## Title
 
-## Ambitious QA Engineer
+**Ambitious QA Automation Engineer**
 
 "Let's build something great together!"
 
