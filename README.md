@@ -67,7 +67,9 @@ My goal is to save you time, money, and headaches! Get in touch and we'll discus
 
 * Associates of Arts and Sciences | Culinary Arts | Flathead Valley Community College | August 2009 - May 2011
 
-#### Portfolio
+---
+
+### Portfolio
 
 **E2E Load Test**
 Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto the application, following pre-defined paths. Reporting handled and generated using Google Apps Script.
