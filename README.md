@@ -61,7 +61,7 @@ My goal is to save you time, money, and headaches! Get in touch and we'll discus
 
 * Test Automation Engineer | Evercast LLC | July 2021 - Present
 * QA 1 | Evercast LLC | March 2021 - July 2021
-* QA Analyst & Software Support Technician | Pingman Tools LLC | November 2018 - March 2021
+* QA Analyst & Software Support Technician | Pingman Tools LLC | October 2018 - March 2021
 
 #### Education
 
