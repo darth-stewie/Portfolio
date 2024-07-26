@@ -1,17 +1,6 @@
-# Portfolio
-A running portfolio of projects I've either worked on or authored
+# Objective
 
-## Title
-
-**Ambitious QA Automation Engineer**
-
-"Let's build something great together!"
-
----
-
-## Objective
-
-The implementation of comprehensive solutions to ensure a highly functional product through the use of:
+The implementation of comprehensive solutions for QA teams to ensure a highly functional product through the use of:
 
 * Automated Testing
   * End-to-end functional regression in addition to Load, API, and performance
@@ -21,16 +10,16 @@ The implementation of comprehensive solutions to ensure a highly functional prod
   * Improving team efficiency through R&D of daily tasks and communication methods
 * Expert documentation and collaboration
 
-### Background
+## Background
 
-After 5 years of working almost exclusively with startups, I've learned how to provide low-cost, practical solutions for the automated testing of web and native applications. In addition, my experiences in Support and Networking add unique competencies. With a focus on growth, innovation, and collaboration, my startup-centric mindset can help you ensure a bug-free product!
+With 5+ years of experience in QA, I can provide low-cost, practical solutions for the automated testing of web and native applications in addition to excellent manual testing efforts. With a focus on growth, innovation, and collaboration, my diligence and expertise can help ensure a high quality product for your company.
 
 ### Experience
 
 #### Examples of my work
 
 * **Automation**: In a single quarter, caught 5 high-impact bugs during pre-deployment ( saving thousands of dollars in repairs and support calls )
-* **Automation**: Built multiple end-to-end regression test suites with 100+ scenarios ( improving QA efficiency )
+* **Automation**: Built multiple end-to-end regression test suites with 100+ scenarios, _each_ ( improving QA efficiency )
 * **Manual**: Caught multiple bugs in new-feature deployments that would have negatively affected hundreds of clients ( ensuring client retention )
 * **Documentation**: Wrote hundreds of heavily detailed bug/story/task tickets in Jira and many SOPs using Confluence ( saving $ in the reduction of calls/meetings )
 * **Engineering**: Researched and developed low-cost performance and load testing projects ( bringing awareness to developers and stakeholders )
@@ -55,21 +44,19 @@ After 5 years of working almost exclusively with startups, I've learned how to p
 
 ### Summary
 
-My goal is to save you time, money, and headaches! Get in touch and we'll discuss your product quality goals and my professional solutions in detail. Let's do this 💪
+With a mission to implement sustainable QA methods and tools, my goal is ensure that your amazing products and services not only get better, but they stay that way.
 
 #### Employment History
 
 * Test Automation Engineer | Evercast LLC | July 2021 - Present
 * QA 1 | Evercast LLC | March 2021 - July 2021
-* QA Analyst & Software Support Technician | Pingman Tools LLC | October 2018 - March 2021
+* QA Analyst & Software Support Technician | Pingman Tools LLC | November 2018 - March 2021
 
 #### Education
 
 * Associates of Arts and Sciences | Culinary Arts | Flathead Valley Community College | August 2009 - May 2011
 
----
-
-### Portfolio
+#### Portfolio
 
 **E2E Load Test**
 Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto the application, following pre-defined paths. Reporting handled and generated using Google Apps Script.
