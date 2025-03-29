@@ -48,7 +48,7 @@ With a mission to implement sustainable QA methods and tools, my goal is ensure 
 
 #### Employment History
 
-* Test Automation Engineer | Evercast LLC | July 2021 - Present
+* Test Automation Engineer | Evercast LLC | July 2021 - October 2024
 * QA 1 | Evercast LLC | March 2021 - July 2021
 * QA Analyst & Software Support Technician | Pingman Tools LLC | November 2018 - March 2021
 
