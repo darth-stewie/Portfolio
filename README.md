@@ -12,7 +12,7 @@ The implementation of comprehensive solutions for QA teams to ensure a highly fu
 
 ## Background
 
-With 5+ years of experience in QA, I can provide low-cost, practical solutions for the automated testing of web and native applications in addition to excellent manual testing efforts. With a focus on growth, innovation, and collaboration, my diligence and expertise can help ensure a high quality product for your company.
+With 6+ years of experience in QA, I can provide low-cost, practical solutions for the automated testing of web and native applications in addition to excellent manual testing efforts. With a focus on growth, innovation, and collaboration, my diligence and expertise can help ensure a high quality product for your company.
 
 ### Experience
 
