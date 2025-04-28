@@ -1,8 +1,8 @@
-### Professional Summary
+# Professional Summary
 
 With a mission to implement sustainable QA methods and tools, my goal is ensure that your amazing products and services not only get better, but they stay that way.
 
-### What I can do for you
+## What I can do for you
 
 * Translate existing manual tests into automated ones
 * Engineer new automated tests
@@ -12,7 +12,7 @@ With a mission to implement sustainable QA methods and tools, my goal is ensure 
 * Plan and execute cycles of manual testing
 * Write expertly detailed technical documentation for tickets and projects
 
-## Background
+### Background
 
 With 6+ years of experience in QA, I can provide low-cost, practical solutions for the automated testing of web and native applications in addition to excellent manual testing efforts. With a focus on growth, innovation, and collaboration, my diligence and expertise can help ensure a high quality product for your company.
 
@@ -44,9 +44,9 @@ With 6+ years of experience in QA, I can provide low-cost, practical solutions f
 
 * Associates of Arts and Sciences | Culinary Arts | Flathead Valley Community College | August 2009 - May 2011
 
-### Portfolio
+## Portfolio
 
-#### E2E Load Test
+### E2E Load Test
 
 Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto the application, following pre-defined paths. Reporting handled and generated using Google Apps Script.
 
@@ -54,7 +54,7 @@ Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto
 * Enables stakeholders to maintain confidence in the application
 * Provides visibility to developers about large-scale effects of new changes
 
-#### E2E Automated Regression test suite
+### E2E Automated Regression test suite
 
 Uses Cypress.io + Typescript w/ Cucumber, for a web application. 100+ test cases with scenarios using a POM ( Page Object Model ) style.
 
@@ -63,7 +63,7 @@ Uses Cypress.io + Typescript w/ Cucumber, for a web application. 100+ test cases
 * Makes use of a custom HTML reporting mechanism for local-only documentation
 * Heavy use of accurate JSDoc comments for types, interfaces, functions, and classes
 
-#### E2E Performance Test
+### E2E Performance Test
 
 Uses [Loadero](https://loadero.com/), Google Apps Script, Google Drive, and [analyzeRTC](https://app.testrtc.com/app/analyze) in conjunction with an edited version of the E2E load test, to put a load of virtual users onto the application.
 
