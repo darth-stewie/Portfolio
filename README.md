@@ -59,6 +59,7 @@ With a mission to implement sustainable QA methods and tools, my goal is ensure 
 #### Portfolio
 
 **E2E Load Test**
+
 Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto the application, following pre-defined paths. Reporting handled and generated using Google Apps Script.
 
 * Allows for low-cost evaluation of web application performance over large sample sets
@@ -66,6 +67,7 @@ Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto
 * Provides visibility to developers about large-scale effects of new changes
 
 **E2E Automated Regression test suite**
+
 Uses Cypress.io + Typescript w/ Cucumber, for a web application. 100+ test cases with scenarios using a POM ( Page Object Model ) style.
 
 * Utilizes built-in Chai library from Cypress, with custom commands to handle bulk assertions. Allows for multi-value asserting capabilities and even allows the user to check/throw only when subsequent command is invoked
@@ -74,6 +76,7 @@ Uses Cypress.io + Typescript w/ Cucumber, for a web application. 100+ test cases
 * Heavy use of accurate JSDoc comments for types, interfaces, functions, and classes
 
 **E2E Performance Test**
+
 Uses [Loadero](https://loadero.com/), Google Apps Script, Google Drive, and [analyzeRTC](https://app.testrtc.com/app/analyze) in conjunction with an edited version of the E2E load test, to put a load of virtual users onto the application.
 
 * Users are predefined with various hardware, network, and regional configurations
