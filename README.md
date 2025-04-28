@@ -1,36 +1,6 @@
-# Objective
+### Professional Summary
 
-The implementation of comprehensive solutions for QA teams to ensure a highly functional product through the use of:
-
-* Automated Testing
-  * End-to-end functional regression in addition to Load, API, and performance
-* Manual Testing
-  * Functional, API, bug reproductions, exploratory testing
-* Internal toolset engineering
-  * Improving team efficiency through R&D of daily tasks and communication methods
-* Expert documentation and collaboration
-
-## Background
-
-With 6+ years of experience in QA, I can provide low-cost, practical solutions for the automated testing of web and native applications in addition to excellent manual testing efforts. With a focus on growth, innovation, and collaboration, my diligence and expertise can help ensure a high quality product for your company.
-
-### Experience
-
-#### Examples of my work
-
-* **Automation**: In a single quarter, caught 5 high-impact bugs during pre-deployment ( saving thousands of dollars in repairs and support calls )
-* **Automation**: Built multiple end-to-end regression test suites with 100+ scenarios, _each_ ( improving QA efficiency )
-* **Manual**: Caught multiple bugs in new-feature deployments that would have negatively affected hundreds of clients ( ensuring client retention )
-* **Documentation**: Wrote hundreds of heavily detailed bug/story/task tickets in Jira and many SOPs using Confluence ( saving $ in the reduction of calls/meetings )
-* **Engineering**: Researched and developed low-cost performance and load testing projects ( bringing awareness to developers and stakeholders )
-
-#### Languages and technologies
-
-🔹 Typescript 🔹 Python 🔹 Java 🔹 Cucumber 🔹 Cypress.io 🔹 Selenium 🔹Google Apps Script 🔹  AWS Lambda & S3 🔹 Google Apps Script 🔹Git 🔹 Github 🔹 Postman 🔹 Jira 🔹 Confluence 🔹 Slack 🔹 Mac 🔹 Windows
-
-#### Industries
-
-🔸 Networking 🔸 Healthcare 🔸 Technology 🔸 Data Analytics
+With a mission to implement sustainable QA methods and tools, my goal is ensure that your amazing products and services not only get better, but they stay that way.
 
 ### What I can do for you
 
@@ -42,23 +12,41 @@ With 6+ years of experience in QA, I can provide low-cost, practical solutions f
 * Plan and execute cycles of manual testing
 * Write expertly detailed technical documentation for tickets and projects
 
-### Summary
+## Background
 
-With a mission to implement sustainable QA methods and tools, my goal is ensure that your amazing products and services not only get better, but they stay that way.
+With 6+ years of experience in QA, I can provide low-cost, practical solutions for the automated testing of web and native applications in addition to excellent manual testing efforts. With a focus on growth, innovation, and collaboration, my diligence and expertise can help ensure a high quality product for your company.
 
-#### Employment History
+### Examples of my work
 
-* Test Automation Engineer | Evercast LLC | July 2021 - October 2024
-* QA 1 | Evercast LLC | March 2021 - July 2021
-* QA Analyst & Software Support Technician | Pingman Tools LLC | November 2018 - March 2021
+* **Automation**: In a single quarter, caught 5 high-impact bugs during pre-deployment ( saving thousands of dollars in repairs and support calls )
+* **Automation**: Built multiple end-to-end regression test suites with 100+ scenarios, _each_ ( improving QA efficiency )
+* **Manual**: Caught multiple bugs in new-feature deployments that would have negatively affected hundreds of clients ( ensuring client retention )
+* **Documentation**: Wrote hundreds of heavily detailed bug/story/task tickets in Jira and many SOPs using Confluence ( saving $ in the reduction of calls/meetings )
+* **Engineering**: Researched and developed low-cost performance and load testing projects ( bringing awareness to developers and stakeholders )
 
-#### Education
+### Languages and technologies
+
+🔹 Typescript 🔹 Python 🔹 Java 🔹 Cucumber 🔹 Cypress.io 🔹 Selenium 🔹Google Apps Script 🔹  AWS Lambda & S3 🔹 Google Apps Script 🔹Git 🔹 Github 🔹 Postman 🔹 Jira 🔹 Confluence 🔹 Slack 🔹 Mac 🔹 Windows
+
+### Industries
+
+🔸 Networking 🔸 Healthcare 🔸 Technology 🔸 Data Analytics
+
+### Employment History
+
+| Title | Employer | Start Date | End Date |
+| ----- | -------- | ---------- | -------- | 
+| Test Automation Engineer | Evercast LLC | July 2021 | October 2024 |
+| QA Engineer I | Evercast LLC | March 2021 | July 2021 |
+| QA Analyst & Technical Support | Pingman Tools LLC | November 2018 | March 2021 |
+
+### Education
 
 * Associates of Arts and Sciences | Culinary Arts | Flathead Valley Community College | August 2009 - May 2011
 
-#### Portfolio
+### Portfolio
 
-**E2E Load Test**
+#### E2E Load Test
 
 Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto the application, following pre-defined paths. Reporting handled and generated using Google Apps Script.
 
@@ -66,7 +54,7 @@ Uses AWS Lambda & S3 with Google Apps Script to put a load of virtual users onto
 * Enables stakeholders to maintain confidence in the application
 * Provides visibility to developers about large-scale effects of new changes
 
-**E2E Automated Regression test suite**
+#### E2E Automated Regression test suite
 
 Uses Cypress.io + Typescript w/ Cucumber, for a web application. 100+ test cases with scenarios using a POM ( Page Object Model ) style.
 
@@ -75,10 +63,22 @@ Uses Cypress.io + Typescript w/ Cucumber, for a web application. 100+ test cases
 * Makes use of a custom HTML reporting mechanism for local-only documentation
 * Heavy use of accurate JSDoc comments for types, interfaces, functions, and classes
 
-**E2E Performance Test**
+#### E2E Performance Test
 
 Uses [Loadero](https://loadero.com/), Google Apps Script, Google Drive, and [analyzeRTC](https://app.testrtc.com/app/analyze) in conjunction with an edited version of the E2E load test, to put a load of virtual users onto the application.
 
 * Users are predefined with various hardware, network, and regional configurations
 * Logs are parsed into a custom reporting Google Sheet and .dump files are downloaded to marked folders in Drive using Apps Script
 * Introspection done with analyzeRTC
+
+## Objectives
+
+The implementation of comprehensive solutions for QA teams to ensure a highly functional product through the use of:
+
+* Automated Testing
+  * End-to-end functional regression in addition to Load, API, and performance
+* Manual Testing
+  * Functional, API, bug reproductions, exploratory testing
+* Internal toolset engineering
+  * Improving team efficiency through R&D of daily tasks and communication methods
+* Expert documentation and collaboration
